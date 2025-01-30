@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Gerardo Cruz Gudiño, a Software Development Student from México</h2>
 
-<p align="left">I'm a 5th-semester software development student with a passion for learning new technologies and programming languages. At 19 (almost 20), I'm actively exploring the world of software, focusing on Python while gaining hands-on experience with other tools and frameworks.</p>
+<p align="left">I'm a 5th-semester software development student with a passion for learning new technologies and programming languages. At 20, I'm actively exploring the world of software, focusing on Python while gaining hands-on experience with other tools and frameworks.</p>
 
 <p align="left">I enjoy video games, music, and constantly learning. These interests inspire my creativity and fuel my desire to grow as a developer. I'm in the process of building a strong foundation in programming and problem-solving, with the goal of sharing my knowledge and contributing to the tech community.</p>
 
